@@ -1,166 +1,101 @@
-📝 Internship Project Report
+Python Internship Projects – Codsoft
 
- Internship: Python Programming Intern
-
-Company: Codsoft
-
-👩‍🎓 Intern Name: Thrisha S
-
-📅 Duration: From (25 June 2025) to (25 July 2025)
+This repository contains all the tasks I completed during my Python Programming Internship at Codsoft. The internship focused on core programming skills using Python, emphasizing real-world problem solving and hands-on application.
 
 
 ---
 
-🔢 Overview of Tasks:
+📁 Tasks Overview
 
-This report presents the details of all five tasks completed during my internship at Codsoft as a Python Programming Intern. Each task focused on building a Python-based application using core programming concepts and best practices.
+✅ Task 1: Number Guessing Game
 
+Created an interactive game where the user guesses a randomly generated number.
 
----
+Implemented user input validation and loop control.
 
-✅ Task 1: To-Do List Application
+Used random module for number generation.
 
-📌 Objective:
-
-To build a simple command-line To-Do List application that allows users to manage their daily tasks.
-
-🔧 Tools & Technologies:
-
-Python 3
-
-VS Code
-
-Text-based UI
-
-
-📚 Features:
-
-Add new tasks
-View all tasks
-Mark tasks as complete
-Delete tasks
-
-📈 Skills Gained:
-
-Working with lists and file I/O
-Menu-driven interface
-Data persistence with .txt file
-
----
 
 ✅ Task 2: Simple Calculator
 
-📌 Objective:
+Designed a basic calculator performing addition, subtraction, multiplication, and division.
 
-To create a calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division).
+Used conditional logic to perform operations based on user choice.
 
-Input handling using input() and control flow
+Gained experience with functions and error handling.
 
-📚 Features:
-
-Addition, Subtraction, Multiplication, Division
-Input validation
-Error handling (division by zero)
-
-
-📈 Skills Gained:
-
-Arithmetic operation handling
-Use of conditional statements
-Modular function-based programming
-
----
 
 ✅ Task 3: Password Generator
-📌 Objective:
-To design a password generator that creates strong passwords based on user input like length and complexity.
 
-🔧 Tools & Technologies:
-Python 3
-Random and String libraries
+Built a tool to generate secure passwords.
 
-📚 Features:
+Allowed users to set password length and complexity.
 
-Random generation of alphanumeric and special characters
-Custom password length
-Easy terminal-based interface
+Used string manipulation and randomization to create strong passwords.
 
 
-📈 Skills Gained:
+✅ Task 4: Rock Paper Scissors Game
 
-Randomization and string operations
-Python libraries usage (random, string)
-Security awareness in password design
+Developed a user vs computer version of the classic game.
 
----
+Applied logic to determine the winner.
 
-✅ Task 4: Rock, Paper, Scissors Game
-
-📌 Objective:
-
-To build a fun terminal-based Rock, Paper, Scissors game where the user competes against the computer.
-
-🔧 Tools & Technologies:
-Python 3
-random module
-Terminal/CLI
+Practiced using loops, conditionals, and random module.
 
 
-📚 Features:
+✅ Task 5: Contact Book
 
-User input for Rock/Paper/Scissors
-Computer generates random choice
-Win/loss/draw logic
+Built a contact management system.
+
+Enabled users to add, search, update, and view contacts.
+
+Stored data using Python dictionaries for structured handling.
 
 
-📈 Skills Gained:
-
-Conditional logic
-Game mechanics using Python
-Random decision making
 
 ---
 
-✅ Task 5: Contact Book Application
+🧠 Skills Acquired
 
-📌 Objective:
+Python programming fundamentals
 
-To develop a Contact Book application that stores and manages contact information (name, phone, email, address).
+Working with functions, loops, conditionals, and modules
 
-🔧 Tools & Technologies:
+User interaction and input validation
 
-Python 3
-JSON file handling
-Modular Python script
+Basic file and data handling (where applicable)
 
+Logic building for simple applications
 
-📚 Features:
-
-Add, View, Search, Update, Delete Contacts
-Stores data in contacts.json
-Menu-driven CLI interface
+CLI-based project development
 
 
-📈 Skills Gained:
-
-CRUD operations
-JSON file handling
-Function-based structure for maintainability
 
 ---
 
-Overall Learnings from Internship:
+⚙ Tools & Technologies Used
 
---> Developed command-line applications using Python.
+Python 3.x
 
---> Gained confidence in using Python for real-world use cases.
+Code Editor: VS Code
 
---> Improved logical thinking, error handling, and clean code practices.
+CLI/Terminal for execution
 
---> Understood the fundamentals of file handling, data structures, and user interaction.
+Random and String modules for logic and security
+
+GitHub for version control and project hosting
+
 
 
 ---
+
+📌 Project Structure
+
+Each task folder includes:
+
+.py file (Python source code)
+
+ReadMe with task explanation, logic, and sample output
 
  Acknowledgment:
 
